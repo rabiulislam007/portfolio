@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>My Portfolio</h1>
+    <h3>Full Stack Developer</h3>
     </div>
   );
 }
